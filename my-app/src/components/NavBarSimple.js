@@ -1,5 +1,6 @@
 import React from "react";
 import css from "./css/NavBarSimple.module.css"
+
 class NavBarSimple extends React.Component {
 
     constructor(props) {
